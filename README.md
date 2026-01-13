@@ -1,4 +1,4 @@
-## Hi there, I'm Seena Sharma 👋
+## Hi there, I'm Seena👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
